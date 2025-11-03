@@ -1,2 +1,1 @@
-# Serge
-GAmeeeeeeeeeeeeeee
+# The finished project
